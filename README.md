@@ -1,1 +1,1 @@
-first sem code
+This repository contains all the code
